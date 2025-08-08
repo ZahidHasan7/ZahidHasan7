@@ -28,12 +28,4 @@ Happy coding!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Support Me -->
-
-<br/>
-<div align="center">
-<a href='https://www.google.com/search?q=https://ko-fi.com/YOUR_KOFI_USERNAME' target='_blank'>
-<img height='60' style='border:0px;height:60px;' src='https://www.google.com/search?q=https://storage.ko-fi.com/cdn/kofi2.png%3Fv%3D3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
-</div>
-<br/>
+ 
